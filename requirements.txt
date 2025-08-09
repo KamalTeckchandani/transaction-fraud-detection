@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+pandas
+faker
+scikit-learn
+openai
+joblib
